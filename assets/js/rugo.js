@@ -10,7 +10,7 @@ $(document).ready(function(){
       shuffle: true
     },
     callback: function(){
-      $('#sub-header').text('Be code my friends...');
+      $('#sub-header').text('Be code my friend...');
       $('#sub-header').textillate({
         loop: false,
         autoStart: true,
